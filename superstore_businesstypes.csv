@@ -1,0 +1,807 @@
+,Order_Date,Cost,Price,Customer_Segment,Product_Category,Product_Sub_Category,Product_Type,Product_Name,Vendor,Business_Type,Product_Type_ID
+0,2009-03-22,,152.48,Enterprise,Technology,Computer Components, CPU,Adesso CPU,Adesso,external,1
+1,2010-12-22,,152.48,Enterprise,Technology,Computer Components, CPU,Adesso CPU,Adesso,external,1
+2,2012-10-28,,152.48,Enterprise,Technology,Computer Components, CPU,Adesso CPU,Adesso,external,1
+3,2012-09-24,,152.48,Enterprise,Technology,Computer Components, CPU,Adesso CPU,Adesso,external,1
+4,2010-04-20,,152.48,Enterprise,Technology,Computer Components, CPU,Adesso CPU,Adesso,external,1
+5,2011-12-24,,120.97,Enterprise,Technology,Computer Components, Graphics/video card,Canon BP1200DH 12-Digit graphics card,Canon,external,2
+6,2009-09-17,,120.97,Enterprise,Technology,Computer Components, Graphics/video card,Canon BP1200DH graphics card,Canon,external,2
+7,2012-05-21,,120.97,Enterprise,Technology,Computer Components, Graphics/video card,Canon BP1200DH graphics card,Canon,external,2
+8,2010-06-07,,140.99,Enterprise,Technology,Computer Components, Graphics/video card,Canon MP100DHII graphics card,Canon,external,2
+9,2012-03-02,,150.98,Enterprise,Technology,Computer Components, Graphics/video card,Canon MP41DH graphics card,Canon,external,2
+10,2010-08-30,,150.98,Enterprise,Technology,Computer Components, Graphics/video card,Canon MP41DH graphics card,Canon,external,2
+11,2012-04-11,,150.98,Enterprise,Technology,Computer Components, Graphics/video card,Canon MP41DH graphics card,Canon,external,2
+12,2010-03-08,,150.98,Enterprise,Technology,Computer Components, Graphics/video card,Canon MP41DH graphics card,Canon,external,2
+13,2009-01-26,,150.98,Enterprise,Technology,Computer Components, Graphics/video card,Canon MP41DH graphics card,Canon,external,2
+14,2009-03-25,,150.98,Enterprise,Technology,Computer Components, Graphics/video card,Canon MP41DH graphics card,Canon,external,2
+15,2012-05-07,,150.98,Enterprise,Technology,Computer Components, Graphics/video card,Canon MP41DH graphics card,Canon,external,2
+16,2010-08-15,,17.98,Enterprise,Technology,Computer Components, Graphics/video card,Canon P1-DHIII Palm graphics card,Canon,external,2
+17,2012-05-28,,17.98,Enterprise,Technology,Computer Components, Graphics/video card,Canon P1-DHIII Palm graphics card,Canon,external,2
+18,2011-12-07,,17.98,Enterprise,Technology,Computer Components, Graphics/video card,Canon P1-DHIII Palm graphics card,Canon,external,2
+19,2011-12-02,,17.98,Enterprise,Technology,Computer Components, Graphics/video card,Canon P1-DHIII Palm graphics card,Canon,external,2
+20,2010-07-03,,17.98,Enterprise,Technology,Computer Components, Graphics/video card,Canon P1-DHIII Palm graphics card,Canon,external,2
+21,2009-04-07,,40.48,Enterprise,Technology,Computer Components, Graphics/video card,Keytronic Designer graphics card,Keytronic,external,2
+22,2011-04-17,,40.48,Enterprise,Technology,Computer Components, Graphics/video card,Keytronic Designer graphics card,Keytronic,external,2
+23,2012-12-21,,20.97,Enterprise,Technology,Computer Components, Wi-Fi,Microsoft WiFi,Microsoft,external,6
+24,2011-03-12,,20.97,Enterprise,Technology,Computer Components, Wi-Fi,Microsoft WiFi,Microsoft,external,6
+25,2011-04-20,,20.97,Enterprise,Technology,Computer Components, Wi-Fi,Microsoft WiFi,Microsoft,external,6
+26,2012-05-07,,20.97,Enterprise,Technology,Computer Components, Wi-Fi,Microsoft WiFi,Microsoft,external,6
+27,2011-07-22,,20.97,Enterprise,Technology,Computer Components, Wi-Fi,Microsoft WiFi,Microsoft,external,6
+28,2010-01-10,,20.97,Enterprise,Technology,Computer Components, Wi-Fi,Microsoft WiFi,Microsoft,external,6
+29,2009-05-13,,30.42,Enterprise,Technology,Computer Components, Wi-Fi,Microsoft WiFi,Microsoft,external,6
+30,2012-09-09,,30.42,Enterprise,Technology,Computer Components, Wi-Fi,Microsoft WiFi,Microsoft,external,6
+31,2011-07-23,,30.42,Enterprise,Technology,Computer Components, Wi-Fi,Microsoft WiFi,Microsoft,external,6
+32,2012-05-21,,30.42,Enterprise,Technology,Computer Components, Wi-Fi,Microsoft WiFi,Microsoft,external,6
+33,2012-05-13,,99.99,Enterprise,Technology,Computer Components, Wi-Fi,U.S. Robotics WiFi,U.S. Robotics,external,6
+34,2011-08-07,,99.99,Enterprise,Technology,Computer Components, Wi-Fi,U.S. Robotics WiFi,U.S. Robotics,external,6
+35,2010-10-09,,99.99,Enterprise,Technology,Computer Components, Wi-Fi,U.S. Robotics WiFi,U.S. Robotics,external,6
+36,2011-04-10,,99.99,Enterprise,Technology,Computer Components, Wi-Fi,U.S. Robotics WiFi,U.S. Robotics,external,6
+37,2010-11-17,,99.99,Enterprise,Technology,Computer Components, Wi-Fi,US Robotics 56K  External WiFi,U.S. Robotics,external,6
+38,2012-04-08,,99.99,Enterprise,Technology,Computer Components, Wi-Fi,US Robotics 56K  External WiFi,U.S. Robotics,external,6
+39,2012-06-29,,99.99,Enterprise,Technology,Computer Components, Wi-Fi,US Robotics 56K  External WiFi,U.S. Robotics,external,6
+40,2010-09-23,,99.99,Enterprise,Technology,Computer Components, Wi-Fi,US Robotics 56K  External WiFi,U.S. Robotics,external,6
+41,2012-08-10,,99.99,Enterprise,Technology,Computer Components, Wi-Fi,US Robotics 56K  External WiFi,U.S. Robotics,external,6
+42,2011-02-07,,99.99,Enterprise,Technology,Computer Components, Wi-Fi,US Robotics 56K  External WiFi,U.S. Robotics,external,6
+43,2010-09-06,,99.99,Enterprise,Technology,Computer Components, Wi-Fi,US Robotics 56K  External WiFi,U.S. Robotics,external,6
+44,2010-09-03,,99.99,Enterprise,Technology,Computer Components, Wi-Fi,US Robotics 56K  External WiFi,U.S. Robotics,external,6
+45,2009-10-28,,49.99,Enterprise,Technology,Computer Components, Wi-Fi,US Robotics 56K  Internal PCI WiFi,U.S. Robotics,external,6
+46,2011-11-19,,49.99,Enterprise,Technology,Computer Components, Wi-Fi,US Robotics 56K  Internal PCI WiFi,U.S. Robotics,external,6
+47,2009-01-31,,49.99,Enterprise,Technology,Computer Components, Wi-Fi,US Robotics 56K  Internal PCI WiFi,U.S. Robotics,external,6
+48,2011-06-27,,49.99,Enterprise,Technology,Computer Components, Wi-Fi,US Robotics 56K  Internal PCI WiFi,U.S. Robotics,external,6
+49,2012-03-06,,39.99,Enterprise,Technology,Computer Components, Wi-Fi,Zoom  PCI Internal Controllerless WiFi,Zoom,external,6
+50,2011-09-15,,49.99,Enterprise,Technology,Computer Components, Wi-Fi,Zoom  USB External WiFi,Zoom,external,6
+51,2012-01-01,,49.99,Enterprise,Technology,Computer Components, Wi-Fi,Zoom  USB External WiFi,Zoom,external,6
+52,2009-12-06,,49.99,Enterprise,Technology,Computer Components, Wi-Fi,Zoom  USB External WiFi,Zoom,external,6
+53,2009-07-06,,20.95,Enterprise,Technology,Computer Components, Sound card,Fellowes Basic sound card,Fellowes,external,7
+54,2009-08-15,,20.95,Enterprise,Technology,Computer Components, Sound card,Fellowes Basic sound card,Fellowes,external,7
+55,2009-06-17,,20.95,Enterprise,Technology,Computer Components, Sound card,Fellowes Basic sound card,Fellowes,external,7
+56,2010-03-01,,20.95,Enterprise,Technology,Computer Components, Sound card,Fellowes Basic sound card,Fellowes,external,7
+57,2010-10-12,,20.95,Enterprise,Technology,Computer Components, Sound card,Fellowes Basic sound card,Fellowes,external,7
+58,2012-11-08,,20.95,Enterprise,Technology,Computer Components, Sound card,Fellowes Basic sound card,Fellowes,external,7
+59,2011-09-19,,12.99,Enterprise,Technology,Computer Components, Sound card,Hewlett Packard 6S Scientific sound card,Hewlett Packard,external,7
+60,2012-11-29,,13.99,Enterprise,Technology,Computer Components, Sound card,Sharp EL500L Fraction sound card,Sharp,external,7
+61,2009-03-23,,13.99,Enterprise,Technology,Computer Components, Sound card,Sharp EL500L Fraction sound card,Sharp,external,7
+62,2011-09-16,,13.99,Enterprise,Technology,Computer Components, Sound card,Sharp EL500L Fraction sound card,Sharp,external,7
+63,2009-02-10,,13.99,Enterprise,Technology,Computer Components, Sound card,Sharp EL500L Fraction sound card,Sharp,external,7
+64,2010-01-08,,13.99,Enterprise,Technology,Computer Components, Sound card,Sharp EL500L Fraction sound card,Sharp,external,7
+65,2011-05-22,,9.49,Enterprise,Technology,Computer Components, Sound card,Sharp EL501VB Scientific sound card,Sharp,external,7
+66,2011-01-24,,23.99,Enterprise,Technology,Computer Components, Sound card,TI 36X Solar Scientific sound card,Texas Instruments,external,7
+67,2012-01-20,,23.99,Enterprise,Technology,Computer Components, Sound card,TI 36X Solar Scientific sound card,Texas Instruments,external,7
+68,2010-06-06,,23.99,Enterprise,Technology,Computer Components, Sound card,TI 36X Solar Scientific sound card,Texas Instruments,external,7
+69,2012-04-06,,23.99,Enterprise,Technology,Computer Components, Sound card,TI 36X Solar Scientific sound card,Texas Instruments,external,7
+70,2012-06-19,,23.99,Enterprise,Technology,Computer Components, Sound card,TI 36X Solar Scientific sound card,Texas Instruments,external,7
+71,2009-05-29,,23.99,Enterprise,Technology,Computer Components, Sound card,TI 36X Solar Scientific sound card,Texas Instruments,external,7
+72,2010-06-14,,4.98,Enterprise,Technology,Computer Components,drive controller,Imation drive controller,Imation,external,8
+73,2009-02-27,,4.98,Enterprise,Technology,Computer Components,drive controller,Imation drive controller,Imation,external,8
+74,2011-07-28,,4.98,Enterprise,Technology,Computer Components,drive controller,Imation drive controller,Imation,external,8
+75,2009-12-28,,4.98,Enterprise,Technology,Computer Components,drive controller,Imation drive controller,Imation,external,8
+76,2010-12-07,,6.6,Enterprise,Technology,Computer Components,DVR drive," IBM DVR drive, DS/HD",IBM,external,9
+77,2010-09-14,,6.6,Enterprise,Technology,Computer Components,DVR drive," IBM DVR drive, DS/HD",IBM,external,9
+78,2010-12-13,,8.33,Enterprise,Technology,Computer Components,DVR drive,80 Minute Slim Jewel Case DVR,Unknown,external,9
+79,2009-08-14,,8.33,Enterprise,Technology,Computer Components,DVR drive,80 Minute Slim Jewel Case DVR,Unknown,external,9
+80,2011-12-30,,8.33,Enterprise,Technology,Computer Components,DVR drive,80 Minute Slim Jewel Case DVR ,Unknown,external,9
+81,2010-06-17,,8.33,Enterprise,Technology,Computer Components,DVR drive,80 Minute Slim Jewel Case DVR ,Unknown,external,9
+82,2009-02-25,,8.33,Enterprise,Technology,Computer Components,DVR drive,80 Minute Slim Jewel Case DVR ,Unknown,external,9
+83,2010-10-12,,4.98,Enterprise,Technology,Computer Components,DVR drive,DS/HD IBM DVR drive - Staples,Staples,external,9
+84,2010-03-25,,4.98,Enterprise,Technology,Computer Components,DVR drive,DS/HD IBM DVR drive - Staples,Staples,external,9
+85,2011-11-12,,47.98,Enterprise,Technology,Computer Components,DVR drive,DS/HD IBM DVR drive - Staples,Staples,external,9
+86,2012-08-28,,47.98,Enterprise,Technology,Computer Components,DVR drive,DS/HD IBM DVR drive - Staples,Staples,external,9
+87,2009-12-20,,47.98,Enterprise,Technology,Computer Components,DVR drive,DS/HD IBM DVR drive - Staples,Staples,external,9
+88,2010-09-23,,40.96,Enterprise,Technology,Computer Components,DVR drive,Fuji 5.2GB DVR Drive,Fuji,external,9
+89,2010-10-18,,40.96,Enterprise,Technology,Computer Components,DVR drive,Fuji 5.2GB DVR Drive,Fuji,external,9
+90,2010-06-26,,2.12,Enterprise,Technology,Computer Components,DVR drive,Fuji Slim Jewel Case DVR,Fuji,external,9
+91,2010-01-15,,2.12,Enterprise,Technology,Computer Components,DVR drive,Fuji Slim Jewel Case DVR,Fuji,external,9
+92,2010-05-28,,8.5,Enterprise,Technology,Computer Components,DVR drive,Hewlett-Packard 4.7GB DVR Drive,Hewlett Packard,external,9
+93,2009-08-31,,8.5,Enterprise,Technology,Computer Components,DVR drive,Hewlett-Packard 4.7GB DVR Drive,Hewlett Packard,external,9
+94,2011-02-26,,7.28,Enterprise,Technology,Computer Components,DVR drive,Imation  DS-HD Macintosh DVR drive,Imation,external,9
+95,2010-05-21,,7.28,Enterprise,Technology,Computer Components,DVR drive,Imation  DS-HD Macintosh DVR drive,Imation,external,9
+96,2012-03-23,,7.28,Enterprise,Technology,Computer Components,DVR drive,Imation  DS-HD Macintosh DVR drive,Imation,external,9
+97,2012-10-17,,5.98,Enterprise,Technology,Computer Components,DVR drive,Imation  DS/HD IBM DVR drive,Imation,external,9
+98,2009-05-12,,5.98,Enterprise,Technology,Computer Components,DVR drive,Imation  DS/HD IBM DVR drive,Imation,external,9
+99,2009-01-30,,15.98,Enterprise,Technology,Computer Components,DVR drive,Imation  DS/HD IBM DVR drive,Imation,external,9
+100,2009-02-08,,15.98,Enterprise,Technology,Computer Components,DVR drive,Imation  DS/HD IBM DVR drive,Imation,external,9
+101,2010-06-30,,8.32,Enterprise,Technology,Computer Components,DVR drive,Imation  IBM DVR drive,Imation,external,9
+102,2011-11-18,,8.32,Enterprise,Technology,Computer Components,DVR drive,Imation  IBM DVR drive,Imation,external,9
+103,2011-11-19,,8.32,Enterprise,Technology,Computer Components,DVR drive,Imation  IBM DVR drive,Imation,external,9
+104,2010-12-29,,8.32,Enterprise,Technology,Computer Components,DVR drive,Imation  IBM DVR drive,Imation,external,9
+105,2009-02-28,,8.32,Enterprise,Technology,Computer Components,DVR drive,Imation  IBM DVR drive,Imation,external,9
+106,2012-03-30,,5.98,Enterprise,Technology,Computer Components,DVR drive,Imation  IBM-DVR drive,Imation,external,9
+107,2011-04-18,,5.98,Enterprise,Technology,Computer Components,DVR drive,Imation  IBM-DVR drive,Imation,external,9
+108,2010-02-06,,60.98,Enterprise,Technology,Computer Components,DVR drive,Imation 5.2GB DVR Drive,Imation,external,9
+109,2009-08-01,,60.98,Enterprise,Technology,Computer Components,DVR drive,Imation 5.2GB DVR Drive,Imation,external,9
+110,2010-12-03,,35.41,Enterprise,Technology,Computer Components,DVR drive,Imation DVR Drive DVR,Imation,external,9
+111,2009-08-23,,35.41,Enterprise,Technology,Computer Components,DVR drive,Imation DVR Drive DVR,Imation,external,9
+112,2011-04-09,,35.41,Enterprise,Technology,Computer Components,DVR drive,Imation DVR Drive DVR,Imation,external,9
+113,2012-09-02,,4.77,Enterprise,Technology,Computer Components,DVR drive,Imation Primaris  2HD UnDVR drive,Imation,external,9
+114,2009-05-25,,4.77,Enterprise,Technology,Computer Components,DVR drive,Imation Primaris  2HD UnDVR drive,Imation,external,9
+115,2011-05-07,,4.77,Enterprise,Technology,Computer Components,DVR drive,Imation Primaris  2HD UnDVR drive,Imation,external,9
+116,2009-04-20,,4.77,Enterprise,Technology,Computer Components,DVR drive,Imation Primaris  2HD UnDVR drive,Imation,external,9
+117,2012-08-12,,4.77,Enterprise,Technology,Computer Components,DVR drive,Imation Primaris  2HD UnDVR drive,Imation,external,9
+118,2011-03-09,,4.89,Enterprise,Technology,Computer Components,DVR drive,Maxell  DS/HD IBM-DVR drive,Maxel,external,9
+119,2009-08-06,,4.89,Enterprise,Technology,Computer Components,DVR drive,Maxell  DS/HD IBM-DVR drive,Maxel,external,9
+120,2011-03-04,,4.89,Enterprise,Technology,Computer Components,DVR drive,Maxell  DS/HD IBM-DVR drive,Maxel,external,9
+121,2009-01-17,,16.48,Enterprise,Technology,Computer Components,DVR drive,Maxell DVR Drive DVR,Maxel,external,9
+122,2009-08-02,,16.48,Enterprise,Technology,Computer Components,DVR drive,Maxell DVR Drive DVR,Maxel,external,9
+123,2011-01-22,,17.48,Enterprise,Technology,Computer Components,DVR drive,Memorex 'Cool' 80 Minute DVR ,Memorex,external,9
+124,2009-12-21,,15.28,Enterprise,Technology,Computer Components,DVR drive,Memorex 4.7GB DVR Drive,Memorex,external,9
+125,2009-07-15,,15.28,Enterprise,Technology,Computer Components,DVR drive,Memorex 4.7GB DVR Drive,Memorex,external,9
+126,2011-01-28,,28.48,Enterprise,Technology,Computer Components,DVR drive,Memorex 4.7GB DVR Drive,Memorex,external,9
+127,2011-12-04,,28.48,Enterprise,Technology,Computer Components,DVR drive,Memorex 4.7GB DVR Drive,Memorex,external,9
+128,2010-06-26,,28.48,Enterprise,Technology,Computer Components,DVR drive,Memorex 4.7GB DVR Drive,Memorex,external,9
+129,2012-03-29,,28.48,Enterprise,Technology,Computer Components,DVR drive,Memorex 4.7GB DVR Drive,Memorex,external,9
+130,2010-03-21,,28.48,Enterprise,Technology,Computer Components,DVR drive,Memorex 4.7GB DVR Drive,Memorex,external,9
+131,2012-04-25,,28.48,Enterprise,Technology,Computer Components,DVR drive,Memorex 4.7GB DVR Drive,Memorex,external,9
+132,2009-07-17,,28.48,Enterprise,Technology,Computer Components,DVR drive,Memorex 4.7GB DVR Drive,Memorex,external,9
+133,2011-06-08,,28.48,Enterprise,Technology,Computer Components,DVR drive,Memorex 4.7GB DVR Drive,Memorex,external,9
+134,2009-01-30,,31.78,Enterprise,Technology,Computer Components,DVR drive,Memorex 4.7GB DVR Drive,Memorex,external,9
+135,2012-09-01,,31.78,Enterprise,Technology,Computer Components,DVR drive,Memorex 4.7GB DVR Drive,Memorex,external,9
+136,2010-03-27,,31.78,Enterprise,Technology,Computer Components,DVR drive,Memorex 4.7GB DVR Drive,Memorex,external,9
+137,2012-03-04,,22.98,Enterprise,Technology,Computer Components,DVR drive,Memorex 80 Minute DVR,Memorex,external,9
+138,2010-11-18,,22.98,Enterprise,Technology,Computer Components,DVR drive,Memorex 80 Minute DVR,Memorex,external,9
+139,2012-04-07,,43.98,Enterprise,Technology,Computer Components,DVR drive,Memorex 80 Minute DVR Spindle,Memorex,external,9
+140,2010-08-09,,6.48,Enterprise,Technology,Computer Components,DVR drive,Sony MFD2HD DVR drive,Sony,external,9
+141,2009-05-09,,6.48,Enterprise,Technology,Computer Components,DVR drive,Sony MFD2HD DVR drive,Sony,external,9
+142,2012-03-06,,6.48,Enterprise,Technology,Computer Components,DVR drive,Sony MFD2HD DVR drive,Sony,external,9
+143,2012-12-21,,10.01,Enterprise,Technology,Computer Components,DVR drive,TDK 4.7GB DVR Drive,TDK,external,9
+144,2010-06-15,,10.01,Enterprise,Technology,Computer Components,DVR drive,TDK 4.7GB DVR Drive,TDK,external,9
+145,2012-07-17,,10.01,Enterprise,Technology,Computer Components,DVR drive,TDK 4.7GB DVR Drive,TDK,external,9
+146,2012-08-27,,10.01,Enterprise,Technology,Computer Components,DVR drive,TDK 4.7GB DVR Drive,TDK,external,9
+147,2010-02-11,,10.01,Enterprise,Technology,Computer Components,DVR drive,TDK 4.7GB DVR Drive,TDK,external,9
+148,2011-10-04,,14.48,Enterprise,Technology,Computer Components,DVR drive,TDK 4.7GB DVR Drive,TDK,external,9
+149,2010-05-24,,14.48,Enterprise,Technology,Computer Components,DVR drive,TDK 4.7GB DVR Drive,TDK,external,9
+150,2011-11-02,,14.48,Enterprise,Technology,Computer Components,DVR drive,TDK 4.7GB DVR Drive,TDK,external,9
+151,2011-10-28,,40.97,Enterprise,Technology,Computer Components,DVR drive,TDK 4.7GB DVR Drive Spindle,TDK,external,9
+152,2010-09-10,,40.97,Enterprise,Technology,Computer Components,DVR drive,TDK 4.7GB DVR Drive Spindle,TDK,external,9
+153,2009-01-11,,39.24,Enterprise,Technology,Computer Components,DVR drive,Verbatim DVR Drive 4.7GB authoring disc,Verbatim,external,9
+154,2012-11-11,,22.24,Enterprise,Technology,Computer Components,DVR drive,"Verbatim DVR Drive, 3.95GB, SR, Mitsubishi Branded, Jewel",Verbatim,external,9
+155,2011-05-10,,22.24,Enterprise,Technology,Computer Components,DVR drive,"Verbatim DVR Drive, 3.95GB, SR, Mitsubishi Branded, Jewel",Verbatim,external,9
+156,2011-11-18,,22.24,Enterprise,Technology,Computer Components,DVR drive,"Verbatim DVR Drive, 3.95GB, SR, Mitsubishi Branded, Jewel",Verbatim,external,9
+157,2012-05-08,,22.24,Enterprise,Technology,Computer Components,DVR drive,"Verbatim DVR Drive, 3.95GB, SR, Mitsubishi Branded, Jewel",Verbatim,external,9
+158,2012-09-22,,22.24,Enterprise,Technology,Computer Components,DVR drive,"Verbatim DVR Drive, 3.95GB, SR, Mitsubishi Branded, Jewel",Verbatim,external,9
+159,2011-09-08,,115.79,Enterprise,Technology,Computer Components,DVR drive,"Verbatim DVR Drive, 4.7GB, Spindle, WE, Blank, Ink Jet/Thermal, 20/Spindle",Verbatim,external,9
+160,2011-03-17,,115.79,Enterprise,Technology,Computer Components,DVR drive,"Verbatim DVR Drive, 4.7GB, Spindle, WE, Blank, Ink Jet/Thermal, 20/Spindle",Verbatim,external,9
+161,2012-04-27,,115.79,Enterprise,Technology,Computer Components,DVR drive,"Verbatim DVR Drive, 4.7GB, Spindle, WE, Blank, Ink Jet/Thermal, 20/Spindle",Verbatim,external,9
+162,2009-02-04,,29.89,Enterprise,Technology,Computer Components,DVR drive,"Verbatim DVR Drive, 5.2GB, , Type 1, DS",Verbatim,external,9
+163,2009-07-12,,29.89,Enterprise,Technology,Computer Components,DVR drive,"Verbatim DVR Drive, 5.2GB, , Type 1, DS",Verbatim,external,9
+164,2012-11-11,,29.89,Enterprise,Technology,Computer Components,DVR drive,"Verbatim DVR Drive, 5.2GB, , Type 1, DS",Verbatim,external,9
+165,2011-10-18,,29.89,Enterprise,Technology,Computer Components,DVR drive,"Verbatim DVR Drive, 5.2GB, , Type 1, DS",Verbatim,external,9
+166,2009-02-01,,45.19,Enterprise,Technology,Computer Components,DVR drive,"Verbatim DVR Drive, 9.4GB, , Type 1, DS, DataLife Plus",Verbatim,external,9
+167,2012-09-14,,45.19,Enterprise,Technology,Computer Components,DVR drive,"Verbatim DVR Drive, 9.4GB, , Type 1, DS, DataLife Plus",Verbatim,external,9
+168,2012-01-27,,10.13,Enterprise,Technology,Computer Components,DVR drive,"Verbatim DVR Drive, Single-Sided, 4.7GB",Verbatim,external,9
+169,2010-12-14,,19.98,Enterprise,Technology,Computer Components,keyboard or keypad,Belkin 105-Key Black Keyboard,Belkin,external,11
+170,2012-01-30,,19.98,Enterprise,Technology,Computer Components,keyboard or keypad,Belkin 105-Key Black Keyboard,Belkin,external,11
+171,2009-03-20,,19.98,Enterprise,Technology,Computer Components,keyboard or keypad,Belkin 105-Key Black Keyboard,Belkin,external,11
+172,2011-03-02,,19.98,Enterprise,Technology,Computer Components,keyboard or keypad,Belkin 105-Key Black Keyboard,Belkin,external,11
+173,2011-03-11,,19.98,Enterprise,Technology,Computer Components,keyboard or keypad,Belkin 105-Key Black Keyboard,Belkin,external,11
+174,2011-09-15,,30.98,Enterprise,Technology,Computer Components,keyboard or keypad,Belkin ErgoBoard™ Keyboard,Belkin,external,11
+175,2012-03-23,,30.98,Enterprise,Technology,Computer Components,keyboard or keypad,Belkin ErgoBoard™ Keyboard,Belkin,external,11
+176,2009-05-15,,30.98,Enterprise,Technology,Computer Components,keyboard or keypad,Belkin ErgoBoard™ Keyboard,Belkin,external,11
+177,2010-12-22,,30.98,Enterprise,Technology,Computer Components,keyboard or keypad,Belkin ErgoBoard™ Keyboard,Belkin,external,11
+178,2010-02-01,,30.98,Enterprise,Technology,Computer Components,keyboard or keypad,Belkin ErgoBoard™ Keyboard,Belkin,external,11
+179,2010-08-26,,27.48,Enterprise,Technology,Computer Components,keyboard or keypad,Belkin MediaBoard 104- Keyboard,Belkin,external,11
+180,2010-07-29,,20.95,Enterprise,Technology,Computer Components,keyboard or keypad,"Fellowes Basic 104-Key Keyboard, Platinum",Fellowes,external,11
+181,2012-05-09,,34.98,Enterprise,Technology,Computer Components,keyboard or keypad,Fellowes EZ Multi-Media Keyboard,Fellowes,external,11
+182,2009-03-05,,34.98,Enterprise,Technology,Computer Components,keyboard or keypad,Fellowes EZ Multi-Media Keyboard,Fellowes,external,11
+183,2011-01-27,,34.98,Enterprise,Technology,Computer Components,keyboard or keypad,Fellowes EZ Multi-Media Keyboard,Fellowes,external,11
+184,2012-01-28,,34.98,Enterprise,Technology,Computer Components,keyboard or keypad,Fellowes EZ Multi-Media Keyboard,Fellowes,external,11
+185,2012-11-23,,30.42,Enterprise,Technology,Computer Components,keyboard or keypad,"Fellowes Internet Keyboard, Platinum",Fellowes,external,11
+186,2009-01-03,,43.22,Enterprise,Technology,Computer Components,keyboard or keypad,"Fellowes Mobile Numeric Keypad, Graphite",Fellowes,external,11
+187,2011-05-10,,43.22,Enterprise,Technology,Computer Components,keyboard or keypad,"Fellowes Mobile Numeric Keypad, Graphite",Fellowes,external,11
+188,2011-04-11,,159.99,Enterprise,Technology,Computer Components,keyboard or keypad,Gyration RF Keyboard,Gyration,external,11
+189,2012-03-20,,39.98,Enterprise,Technology,Computer Components,keyboard or keypad,"IBM Active Response Keyboard, Black",IBM,external,11
+190,2009-01-26,,39.98,Enterprise,Technology,Computer Components,keyboard or keypad,"IBM Active Response Keyboard, Black",IBM,external,11
+191,2010-04-15,,35.77,Enterprise,Technology,Computer Components,keyboard or keypad,"IBM Numeric Access II Keypad, 17-Key, Black",IBM,external,11
+192,2012-05-09,,35.77,Enterprise,Technology,Computer Components,keyboard or keypad,"IBM Numeric Access II Keypad, 17-Key, Black",IBM,external,11
+193,2009-05-15,,73.98,Enterprise,Technology,Computer Components,keyboard or keypad,Keytronic 105-Key Spanish Keyboard,Keytronic,external,11
+194,2009-05-18,,73.98,Enterprise,Technology,Computer Components,keyboard or keypad,Keytronic 105-Key Spanish Keyboard,Keytronic,external,11
+195,2011-06-23,,73.98,Enterprise,Technology,Computer Components,keyboard or keypad,Keytronic French Keyboard,Keytronic,external,11
+196,2010-11-25,,73.98,Enterprise,Technology,Computer Components,keyboard or keypad,Keytronic French Keyboard,Keytronic,external,11
+197,2012-11-09,,73.98,Enterprise,Technology,Computer Components,keyboard or keypad,Keytronic French Keyboard,Keytronic,external,11
+198,2010-04-15,,73.98,Enterprise,Technology,Computer Components,keyboard or keypad,Keytronic French Keyboard,Keytronic,external,11
+199,2010-12-09,,73.98,Enterprise,Technology,Computer Components,keyboard or keypad,Keytronic French Keyboard,Keytronic,external,11
+200,2009-03-12,,73.98,Enterprise,Technology,Computer Components,keyboard or keypad,Keytronic French Keyboard,Keytronic,external,11
+201,2010-09-25,,73.98,Enterprise,Technology,Computer Components,keyboard or keypad,Keytronic French Keyboard,Keytronic,external,11
+202,2012-02-08,,73.98,Enterprise,Technology,Computer Components,keyboard or keypad,Keytronic French Keyboard,Keytronic,external,11
+203,2009-06-17,,30.98,Enterprise,Technology,Computer Components,keyboard or keypad,Logitech Internet Navigator Keyboard,Logitech,external,11
+204,2009-06-13,,30.98,Enterprise,Technology,Computer Components,keyboard or keypad,Logitech Internet Navigator Keyboard,Logitech,external,11
+205,2011-05-20,,30.98,Enterprise,Technology,Computer Components,keyboard or keypad,Logitech Internet Navigator Keyboard,Logitech,external,11
+206,2010-03-07,,30.98,Enterprise,Technology,Computer Components,keyboard or keypad,Logitech Internet Navigator Keyboard,Logitech,external,11
+207,2011-07-04,,30.98,Enterprise,Technology,Computer Components,keyboard or keypad,Logitech Internet Navigator Keyboard,Logitech,external,11
+208,2012-10-01,,10.97,Enterprise,Technology,Computer Components,keyboard or keypad,Micro Innovations 104 Keyboard,Micro Innovations,external,11
+209,2012-10-05,,10.97,Enterprise,Technology,Computer Components,keyboard or keypad,Micro Innovations 104 Keyboard,Micro Innovations,external,11
+210,2011-11-18,,10.97,Enterprise,Technology,Computer Components,keyboard or keypad,Micro Innovations 104 Keyboard,Micro Innovations,external,11
+211,2012-04-04,,10.97,Enterprise,Technology,Computer Components,keyboard or keypad,Micro Innovations 104 Keyboard,Micro Innovations,external,11
+212,2012-10-26,,10.97,Enterprise,Technology,Computer Components,keyboard or keypad,Micro Innovations 104 Keyboard,Micro Innovations,external,11
+213,2012-04-26,,77.51,Enterprise,Technology,Computer Components,keyboard or keypad,Micro Innovations Media Access Pro Keyboard,Micro Innovations,external,11
+214,2010-03-30,,83.1,Enterprise,Technology,Computer Components,keyboard or keypad,"Micro Innovations Micro Digital Wireless Keyboard and Mouse, Gray",Micro Innovations,external,11
+215,2011-05-07,,83.1,Enterprise,Technology,Computer Components,keyboard or keypad,"Micro Innovations Micro Digital Wireless Keyboard and Mouse, Gray",Micro Innovations,external,11
+216,2009-02-02,,83.1,Enterprise,Technology,Computer Components,keyboard or keypad,"Micro Innovations Micro Digital Wireless Keyboard and Mouse, Gray",Micro Innovations,external,11
+217,2011-08-19,,83.1,Enterprise,Technology,Computer Components,keyboard or keypad,"Micro Innovations Micro Digital Wireless Keyboard and Mouse, Gray",Micro Innovations,external,11
+218,2012-04-15,,82.99,Enterprise,Technology,Computer Components,keyboard or keypad,"Micro Innovations Micro Digital Wireless Keyboard and Mouse, Gray",Micro Innovations,external,11
+219,2009-11-08,,83.1,Enterprise,Technology,Computer Components,keyboard or keypad,"Micro Innovations Micro Digital Wireless Keyboard and Mouse, Gray",Micro Innovations,external,11
+220,2010-02-26,,82.99,Enterprise,Technology,Computer Components,keyboard or keypad,"Micro Innovations Micro Digital Wireless Keyboard and Mouse, Gray",Micro Innovations,external,11
+221,2011-02-17,,39.98,Enterprise,Technology,Computer Components,keyboard or keypad,Microsoft Natural Keyboard Elite,Microsoft,external,11
+222,2009-06-11,,39.98,Enterprise,Technology,Computer Components,keyboard or keypad,Microsoft Natural Keyboard Elite,Microsoft,external,11
+223,2010-09-14,,39.98,Enterprise,Technology,Computer Components,keyboard or keypad,Microsoft Natural Keyboard Elite,Microsoft,external,11
+224,2011-06-28,,39.98,Enterprise,Technology,Computer Components,keyboard or keypad,Microsoft Natural Keyboard Elite,Microsoft,external,11
+225,2011-11-10,,40.98,Enterprise,Technology,Computer Components,keyboard or keypad,Microsoft Office Keyboard,Microsoft,external,11
+226,2010-07-28,,53.98,Enterprise,Technology,Computer Components,keyboard or keypad,Nu-Form 106-Key Ergonomic Keyboard w/ Touchpad,Nu-Form,external,11
+227,2009-08-27,,53.98,Enterprise,Technology,Computer Components,keyboard or keypad,Nu-Form 106-Key Ergonomic Keyboard w/ Touchpad,Nu-Form,external,11
+228,2011-08-21,,53.98,Enterprise,Technology,Computer Components,keyboard or keypad,Nu-Form 106-Key Ergonomic Keyboard w/ Touchpad,Nu-Form,external,11
+229,2012-06-26,,40.98,Enterprise,Technology,Computer Components,keyboard or keypad,Targus USB Numeric Keypad,Targus,external,11
+230,2010-07-18,,15.98,Enterprise,Technology,Computer Components,webcam,Logitech webcam,Logitech,external,12
+231,2010-10-18,,15.98,Enterprise,Technology,Computer Components,webcam,Logitech webcam,Logitech,external,12
+232,2011-03-25,,15.98,Enterprise,Technology,Computer Components,webcam,Logitech webcam,Logitech,external,12
+233,2009-12-18,,15.98,Enterprise,Technology,Computer Components,webcam,Logitech webcam,Logitech,external,12
+234,2009-03-27,,15.98,Enterprise,Technology,Computer Components,webcam,Logitech webcam,Logitech,external,12
+235,2011-11-24,,29.99,Enterprise,Technology,Computer Components,webcam,Logitech webcam,Logitech,external,12
+236,2011-09-28,,29.99,Enterprise,Technology,Computer Components,webcam,Logitech webcam,Logitech,external,12
+237,2010-05-21,,29.99,Enterprise,Technology,Computer Components,webcam,Logitech webcam,Logitech,external,12
+238,2012-01-12,,29.99,Enterprise,Technology,Computer Components,webcam,Logitech webcam,Logitech,external,12
+239,2012-11-19,,15.98,Enterprise,Technology,Computer Components,webcam,Logitech webcam,Logitech,external,12
+240,2012-04-22,,29.99,Enterprise,Technology,Computer Components,webcam,Logitech webcam,Logitech,external,12
+241,2010-09-11,,15.98,Enterprise,Technology,Computer Components,webcam,Logitech webcam,Logitech,external,12
+242,2012-07-26,,15.98,Enterprise,Technology,Computer Components,webcam,Logitech webcam,Logitech,external,12
+243,2009-05-08,,300.97,Enterprise,Technology,Computer Components,monitor,Gyration Ultra Monitor '19,Gyration,external,13
+244,2011-07-25,,300.97,Enterprise,Technology,Computer Components,monitor,Gyration Ultra Monitor '19,Gyration,external,13
+245,2011-09-22,,300.97,Enterprise,Technology,Computer Components,monitor,Gyration Ultra Monitor '19,Gyration,external,13
+246,2011-11-01,,300.97,Enterprise,Technology,Computer Components,monitor,Gyration Ultra Monitor '21,Gyration,external,13
+247,2011-12-11,,300.97,Enterprise,Technology,Computer Components,monitor,Gyration Ultra Monitor '21,Gyration,external,13
+248,2009-04-27,,300.97,Enterprise,Technology,Computer Components,monitor,Gyration Ultra Monitor '21,Gyration,external,13
+249,2009-06-23,,256.99,Enterprise,Technology,Computer Components,monitor,Hayes Optima Monitor '21,Hayes,external,13
+250,2010-04-30,,256.99,Enterprise,Technology,Computer Components,monitor,Hayes Optima Monitor '21,Hayes,external,13
+251,2010-07-03,,119.99,Enterprise,Technology,Computer Components,motherboard,Hewlett-Packard 2600DN Business motherboard,Hewlett Packard,external,14
+252,2010-11-03,,808.49,Enterprise,Technology,Computer Components,motherboard,Hewlett-Packard Business motherboard,Hewlett Packard,external,14
+253,2009-02-05,,500.98,Enterprise,Technology,Computer Components,motherboard,"Hewlett-Packard cp1700 [D, PS] Series motherboard",Hewlett Packard,external,14
+254,2010-06-19,,400.97,Enterprise,Technology,Computer Components,motherboard,Hewlett-Packard Deskjet 1220Cse motherboard,Hewlett Packard,external,14
+255,2012-10-28,,100.97,Enterprise,Technology,Computer Components,motherboard,Hewlett-Packard Deskjet 3820 motherboard,Hewlett Packard,external,14
+256,2012-08-05,,115.99,Enterprise,Technology,Computer Components,motherboard,Hewlett-Packard Deskjet 5550 Color motherboard,Hewlett Packard,external,14
+257,2010-03-31,,115.99,Enterprise,Technology,Computer Components,motherboard,Hewlett-Packard Deskjet 5550 motherboard,Hewlett Packard,external,14
+258,2010-01-31,,200.97,Enterprise,Technology,Computer Components,motherboard,Hewlett-Packard Deskjet 6122 motherboard,Hewlett Packard,external,14
+259,2009-03-30,,80.97,Enterprise,Technology,Computer Components,motherboard,Hewlett-Packard Deskjet 940 motherboard,Hewlett Packard,external,14
+260,2012-12-09,,80.97,Enterprise,Technology,Computer Components,motherboard,Hewlett-Packard Deskjet 940 motherboard,Hewlett Packard,external,14
+261,2012-01-11,,115.99,Enterprise,Technology,Computer Components,motherboard,Hewlett-Packard motherboard,Hewlett Packard,external,14
+262,2011-04-08,,400.97,Enterprise,Technology,Computer Components,motherboard,Hewlett-Packard motherboard,Hewlett Packard,external,14
+263,2009-09-25,,200.97,Enterprise,Technology,Computer Components,motherboard,Hewlett-Packard motherboard,Hewlett Packard,external,14
+264,2009-09-04,,8.46,Enterprise,Technology,Computer Components,motherboard,Imation 3.5 IBM motherboard,Imation,external,14
+265,2010-07-14,,8.46,Enterprise,Technology,Computer Components,motherboard,Imation 3.5 IBM motherboard,Imation,external,14
+266,2011-07-15,,8.46,Enterprise,Technology,Computer Components,motherboard,Imation 3.5 IBM motherboard,Imation,external,14
+267,2011-08-07,,31.11,Enterprise,Technology,Computer Components,motherboard,"Imation 3.5"" motherboard, IBM Format, DS/HD, Neon",Imation,external,14
+268,2011-02-16,,7.37,Enterprise,Technology,Computer Components,motherboard,"Imation 3.5"" Unformatted DS/HD motherboard",Imation,external,14
+269,2009-07-16,,7.37,Enterprise,Technology,Computer Components,motherboard,"Imation 3.5"" Unformatted DS/HD motherboard",Imation,external,14
+270,2011-08-25,,7.37,Enterprise,Technology,Computer Components,motherboard,"Imation 3.5"" Unformatted DS/HD motherboard",Imation,external,14
+271,2009-03-27,,8.12,Enterprise,Technology,Computer Components,motherboard,Imation Neon Mac Format motherboard,Imation,external,14
+272,2010-06-06,,8.12,Enterprise,Technology,Computer Components,motherboard,Imation Neon Mac Format motherboard,Imation,external,14
+273,2010-11-01,,8.12,Enterprise,Technology,Computer Components,motherboard,Imation Neon Mac Format motherboard,Imation,external,14
+274,2009-09-19,,8.12,Enterprise,Technology,Computer Components,motherboard,Imation Neon Mac Format motherboard,Imation,external,14
+275,2010-12-05,,8.12,Enterprise,Technology,Computer Components,motherboard,Imation Neon Mac Format motherboard,Imation,external,14
+276,2010-07-03,,80.97,Enterprise,Technology,Computer Components,motherboard,Lexmark Z25 motherboard,Lexmark,external,14
+277,2010-03-28,,80.97,Enterprise,Technology,Computer Components,motherboard,Lexmark Z25 motherboard,Lexmark,external,14
+278,2012-01-22,,90.97,Enterprise,Technology,Computer Components,motherboard,Lexmark Z54se Colormotherboard,Lexmark,external,14
+279,2012-02-27,,90.97,Enterprise,Technology,Computer Components,motherboard,Lexmark Z54se motherboard,Lexmark,external,14
+280,2009-07-12,,90.97,Enterprise,Technology,Computer Components,motherboard,Lexmark Z55se motherboard,Lexmark,external,14
+281,2012-12-09,,20.89,Enterprise,Technology,Computer Components,power supply,IBM power supply,IBM,external,16
+282,2011-07-10,,20.89,Enterprise,Technology,Computer Components,power supply,IBM power supply,IBM,external,16
+283,2011-11-07,,20.89,Enterprise,Technology,Computer Components,power supply,IBM power supply,IBM,external,16
+284,2009-01-10,,33.98,Enterprise,Technology,Computer Components,power supply,Imation Neon power supply,Imation,external,16
+285,2010-08-28,,33.98,Enterprise,Technology,Computer Components,power supply,Imation Neon power supply,Imation,external,16
+286,2012-01-27,,33.98,Enterprise,Technology,Computer Components,power supply,Imation Neon power supply,Imation,external,16
+287,2011-05-21,,33.98,Enterprise,Technology,Computer Components,power supply,Imation Neon power supply,Imation,external,16
+288,2012-07-17,,40.98,Enterprise,Technology,Computer Components,power supply,Imation Printable White power supply,Imation,external,16
+289,2012-08-02,,40.98,Enterprise,Technology,Computer Components,power supply,Imation Printable White power supply,Imation,external,16
+290,2012-11-10,,40.98,Enterprise,Technology,Computer Components,power supply,Imation Printable White power supply,Imation,external,16
+291,2012-05-23,,40.98,Enterprise,Technology,Computer Components,power supply,Imation Printable White power supply,Imation,external,16
+292,2012-10-10,,55.94,Enterprise,Technology,Computer Components,USB drive,Fellowes Smart Design USB drive,Fellowes,external,17
+293,2011-07-26,,55.94,Enterprise,Technology,Computer Components,USB drive,Fellowes Smart Design USB drive,Fellowes,external,17
+294,2009-10-09,,30.73,Enterprise,Technology,Computer Components,USB drive,Fellowes USB drive,Fellowes,external,17
+295,2009-03-02,,30.73,Enterprise,Technology,Computer Components,USB drive,Fellowes USB drive,Fellowes,external,17
+296,2010-12-13,,30.73,Enterprise,Technology,Computer Components,USB drive,Fellowes USB drive,Fellowes,external,17
+297,2011-05-08,,30.73,Enterprise,Technology,Computer Components,USB drive,Fellowes USB drive,Fellowes,external,17
+298,2010-04-27,,30.73,Enterprise,Technology,Computer Components,USB drive,Fellowes USB drive,Fellowes,external,17
+299,2010-02-12,,30.73,Enterprise,Technology,Computer Components,USB drive,Fellowes USB drive,Fellowes,external,17
+300,2010-10-09,,17.48,Enterprise,Technology,Computer Components,USB drive,Maxell Pro 80 Minute USB drive,Maxel,external,17
+301,2009-11-25,,17.48,Enterprise,Technology,Computer Components,USB drive,Maxell Pro 80 Minute USB drive,Maxel,external,17
+302,2010-10-15,,17.48,Enterprise,Technology,Computer Components,USB drive,Maxell Pro 80 Minute USB drive,Maxel,external,17
+303,2010-07-16,,17.48,Enterprise,Technology,Computer Components,USB drive,Maxell Pro 80 Minute USB drive,Maxel,external,17
+304,2009-11-10,,17.48,Enterprise,Technology,Computer Components,USB drive,Maxell Pro 80 Minute USB drive,Maxel,external,17
+305,2012-11-05,,17.48,Enterprise,Technology,Computer Components,USB drive,Maxell Pro 80 Minute USB drive,Maxel,external,17
+306,2012-11-06,,9.78,Enterprise,Technology,Computer Components,USB drive,Memorex Slim 80 Minute USB drive,Memorex,external,17
+307,2011-12-04,,9.78,Enterprise,Technology,Computer Components,USB drive,Memorex Slim 80 Minute USB drive,Memorex,external,17
+308,2009-12-16,,119.99,Enterprise,Technology,Computer Components,printer,Epson C82 Color Inkjet Printer,Epson,external,18
+309,2009-06-21,,119.99,Enterprise,Technology,Computer Components,printer,Epson C82 Color Inkjet Printer,Epson,external,18
+310,2009-10-21,,119.99,Enterprise,Technology,Computer Components,printer,Epson C82 Color Inkjet Printer,Epson,external,18
+311,2012-04-11,,2550.14,Enterprise,Technology,Computer Components,printer,Epson DFX-8500 Dot Matrix Printer,Epson,external,18
+312,2012-03-11,,2550.14,Enterprise,Technology,Computer Components,printer,Epson DFX-8500 Dot Matrix Printer,Epson,external,18
+313,2009-04-16,,2550.14,Enterprise,Technology,Computer Components,printer,Epson DFX-8500 Dot Matrix Printer,Epson,external,18
+314,2009-10-02,,2550.14,Enterprise,Technology,Computer Components,printer,Epson DFX-8500 Dot Matrix Printer,Epson,external,18
+315,2012-11-26,,1500.97,Enterprise,Technology,Computer Components,printer,Epson DFX5000+ Dot Matrix Printer,Epson,external,18
+316,2012-12-16,,1500.97,Enterprise,Technology,Computer Components,printer,Epson DFX5000+ Dot Matrix Printer,Epson,external,18
+317,2012-12-02,,596.98,Enterprise,Technology,Computer Components,printer,Epson FX-2180 Wide Format Dot Matrix Printer,Epson,external,18
+318,2011-02-05,,400.97,Enterprise,Technology,Computer Components,printer,Epson FX-980 Dot Matrix Printer,Epson,external,18
+319,2012-06-12,,270.97,Enterprise,Technology,Computer Components,printer,Epson LQ-570e Dot Matrix Printer,Epson,external,18
+320,2010-12-08,,500.97,Enterprise,Technology,Computer Components,printer,Epson Stylus 1520 Color Inkjet Printer,Epson,external,18
+321,2011-03-20,,500.97,Enterprise,Technology,Computer Components,printer,Epson Stylus 1520 Color Inkjet Printer,Epson,external,18
+322,2012-01-05,,119.99,Enterprise,Technology,Computer Components,printer,Hewlett-Packard 2600DN Business Color Inkjet Printer,Hewlett Packard,external,18
+323,2012-03-31,,119.99,Enterprise,Technology,Computer Components,printer,Hewlett-Packard 2600DN Business Color Inkjet Printer,Hewlett Packard,external,18
+324,2009-08-23,,119.99,Enterprise,Technology,Computer Components,printer,Hewlett-Packard 2600DN Business Color Inkjet Printer,Hewlett Packard,external,18
+325,2011-02-15,,119.99,Enterprise,Technology,Computer Components,printer,Hewlett-Packard 2600DN Business Color Inkjet Printer,Hewlett Packard,external,18
+326,2011-07-06,,808.49,Enterprise,Technology,Computer Components,printer,"Hewlett-Packard Business Color Inkjet 3000 [N, DTN] Series Printers",Hewlett Packard,external,18
+327,2011-07-21,,500.98,Enterprise,Technology,Computer Components,printer,"Hewlett-Packard cp1700 [D, PS] Series Color Inkjet Printers",Hewlett Packard,external,18
+328,2012-01-11,,500.98,Enterprise,Technology,Computer Components,printer,"Hewlett-Packard cp1700 [D, PS] Series Color Inkjet Printers",Hewlett Packard,external,18
+329,2012-10-14,,500.98,Enterprise,Technology,Computer Components,printer,"Hewlett-Packard cp1700 [D, PS] Series Color Inkjet Printers",Hewlett Packard,external,18
+330,2011-12-17,,500.98,Enterprise,Technology,Computer Components,printer,"Hewlett-Packard cp1700 [D, PS] Series Color Inkjet Printers",Hewlett Packard,external,18
+331,2012-09-11,,500.98,Enterprise,Technology,Computer Components,printer,"Hewlett-Packard cp1700 [D, PS] Series Color Inkjet Printers",Hewlett Packard,external,18
+332,2010-10-12,,400.97,Enterprise,Technology,Computer Components,printer,Hewlett-Packard Deskjet 1220Cse Color Inkjet Printer,Hewlett Packard,external,18
+333,2012-04-06,,400.97,Enterprise,Technology,Computer Components,printer,Hewlett-Packard Deskjet 1220Cse Color Inkjet Printer,Hewlett Packard,external,18
+334,2009-03-09,,400.97,Enterprise,Technology,Computer Components,printer,Hewlett-Packard Deskjet 1220Cse Color Inkjet Printer,Hewlett Packard,external,18
+335,2010-05-24,,400.97,Enterprise,Technology,Computer Components,printer,Hewlett-Packard Deskjet 1220Cse Color Inkjet Printer,Hewlett Packard,external,18
+336,2011-08-25,,100.97,Enterprise,Technology,Computer Components,printer,Hewlett-Packard Deskjet 3820 Color Inkjet Printer,Hewlett Packard,external,18
+337,2011-05-04,,115.99,Enterprise,Technology,Computer Components,printer,Hewlett-Packard Deskjet 5550 Color Inkjet Printer,Hewlett Packard,external,18
+338,2012-03-12,,200.97,Enterprise,Technology,Computer Components,printer,Hewlett-Packard Deskjet 6122 Color Inkjet Printer,Hewlett Packard,external,18
+339,2012-07-21,,80.97,Enterprise,Technology,Computer Components,printer,Hewlett-Packard Deskjet 940 REFURBISHED Color Inkjet Printer,Hewlett Packard,external,18
+340,2011-05-01,,80.97,Enterprise,Technology,Computer Components,printer,Hewlett-Packard Deskjet 940 REFURBISHED Color Inkjet Printer,Hewlett Packard,external,18
+341,2012-10-04,,80.97,Enterprise,Technology,Computer Components,printer,Lexmark Z25 Color Inkjet Printer,Lexmark,external,18
+342,2010-09-26,,90.97,Enterprise,Technology,Computer Components,printer,Lexmark Z54se Color Inkjet Printer,Lexmark,external,18
+343,2011-07-14,,90.97,Enterprise,Technology,Computer Components,printer,Lexmark Z54se Color Inkjet Printer,Lexmark,external,18
+344,2011-07-27,,90.97,Enterprise,Technology,Computer Components,printer,Lexmark Z54se Color Inkjet Printer,Lexmark,external,18
+345,2010-09-29,,90.97,Enterprise,Technology,Computer Components,printer,Lexmark Z54se Color Inkjet Printer,Lexmark,external,18
+346,2012-04-28,,90.97,Enterprise,Technology,Computer Components,printer,Lexmark Z55se Color Inkjet Printer,Lexmark,external,18
+347,2011-11-19,,306.14,Enterprise,Technology,Computer Components,printer,Okidata ML184 Turbo Dot Matrix Printers,Okidata,external,18
+348,2010-05-03,,306.14,Enterprise,Technology,Computer Components,printer,Okidata ML184 Turbo Dot Matrix Printers,Okidata,external,18
+349,2009-12-06,,399.98,Enterprise,Technology,Computer Components,printer,Okidata ML320 Series Turbo Dot Matrix Printers,Okidata,external,18
+350,2012-09-06,,399.98,Enterprise,Technology,Computer Components,printer,Okidata ML320 Series Turbo Dot Matrix Printers,Okidata,external,18
+351,2012-10-03,,399.98,Enterprise,Technology,Computer Components,printer,Okidata ML320 Series Turbo Dot Matrix Printers,Okidata,external,18
+352,2010-05-19,,442.14,Enterprise,Technology,Computer Components,printer,Okidata ML390 Turbo Dot Matrix Printers,Okidata,external,18
+353,2009-09-05,,442.14,Enterprise,Technology,Computer Components,printer,Okidata ML390 Turbo Dot Matrix Printers,Okidata,external,18
+354,2011-02-18,,442.14,Enterprise,Technology,Computer Components,printer,Okidata ML390 Turbo Dot Matrix Printers,Okidata,external,18
+355,2009-02-22,,442.14,Enterprise,Technology,Computer Components,printer,Okidata ML390 Turbo Dot Matrix Printers,Okidata,external,18
+356,2012-09-23,,810.98,Enterprise,Technology,Computer Components,printer,Okidata ML591 Wide Format Dot Matrix Printer,Okidata,external,18
+357,2010-10-20,,810.98,Enterprise,Technology,Computer Components,printer,Okidata ML591 Wide Format Dot Matrix Printer,Okidata,external,18
+358,2012-08-07,,810.98,Enterprise,Technology,Computer Components,printer,Okidata ML591 Wide Format Dot Matrix Printer,Okidata,external,18
+359,2009-08-04,,3502.14,Enterprise,Technology,Computer Components,printer,Okidata Pacemark 4410N Wide Format Dot Matrix Printer,Okidata,external,18
+360,2012-03-23,,3502.14,Enterprise,Technology,Computer Components,printer,Okidata Pacemark 4410N Wide Format Dot Matrix Printer,Okidata,external,18
+361,2010-01-20,,264.98,Enterprise,Technology,Computer Components,printer,Panasonic KX-P1131 Dot Matrix Printer,Panasonic,external,18
+362,2010-09-27,,264.98,Enterprise,Technology,Computer Components,printer,Panasonic KX-P1131 Dot Matrix Printer,Panasonic,external,18
+363,2009-01-14,,264.98,Enterprise,Technology,Computer Components,printer,Panasonic KX-P1131 Dot Matrix Printer,Panasonic,external,18
+364,2009-03-22,,145.45,Enterprise,Technology,Computer Components,printer,Panasonic KX-P1150 Dot Matrix Printer,Panasonic,external,18
+365,2011-07-15,,145.45,Enterprise,Technology,Computer Components,printer,Panasonic KX-P1150 Dot Matrix Printer,Panasonic,external,18
+366,2010-01-01,,145.45,Enterprise,Technology,Computer Components,printer,Panasonic KX-P1150 Dot Matrix Printer,Panasonic,external,18
+367,2009-01-13,,145.45,Enterprise,Technology,Computer Components,printer,Panasonic KX-P1150 Dot Matrix Printer,Panasonic,external,18
+368,2009-10-05,,297.48,Enterprise,Technology,Computer Components,printer,Panasonic KX-P3200 Dot Matrix Printer,Panasonic,external,18
+369,2009-01-10,,297.64,Enterprise,Technology,Computer Components,printer,Panasonic KX-P3200 Dot Matrix Printer,Panasonic,external,18
+370,2011-12-07,,517.48,Enterprise,Technology,Computer Components,printer,Panasonic KX-P3626 Dot Matrix Printer,Panasonic,external,18
+371,2012-09-17,,517.48,Enterprise,Technology,Computer Components,printer,Panasonic KX-P3626 Dot Matrix Printer,Panasonic,external,18
+372,2012-01-13,,517.48,Enterprise,Technology,Computer Components,printer,Panasonic KX-P3626 Dot Matrix Printer,Panasonic,external,18
+373,2012-05-06,,299.99,Enterprise,Technology,Computer Components,RAM,Brother DCP1000 Digital RAM 2000,Brother,external,19
+374,2012-07-13,,299.99,Enterprise,Technology,Computer Components,RAM,Brother DCP1000 RAM 2000,Brother,external,19
+375,2012-05-11,,599.99,Enterprise,Technology,Computer Components,RAM,Canon Image Class D660 RAM 2000,Canon,external,19
+376,2010-01-09,,599.99,Enterprise,Technology,Computer Components,RAM,Canon Image Class D660 RAM 2000,Canon,external,19
+377,2011-02-06,,3499.99,Enterprise,Technology,Computer Components,RAM,Canon imageCLASS 2200 RAM 2000,Canon,external,19
+378,2012-03-30,,699.99,Enterprise,Technology,Computer Components,RAM,Canon PC1060 RAM 2000,Canon,external,19
+379,2011-09-02,,599.99,Enterprise,Technology,Computer Components,RAM,Canon PC1080F RAM 2000,Canon,external,19
+380,2009-03-23,,599.99,Enterprise,Technology,Computer Components,RAM,Canon PC1080F RAM 2000,Canon,external,19
+381,2012-03-05,,449.99,Enterprise,Technology,Computer Components,RAM,Canon PC940 RAM 2000 ,Canon,external,19
+382,2011-11-16,,599.99,Enterprise,Technology,Computer Components,RAM,Hewlett Packard LaserJet 3310 RAM 2000,Hewlett Packard,external,19
+383,2010-02-27,,599.99,Enterprise,Technology,Computer Components,RAM,Hewlett Packard LaserJet RAM 2000,Hewlett Packard,external,19
+384,2011-11-16,,39.48,Enterprise,Technology,Computer Components,microprocessor,Generic microprocessor,Unknown,external,20
+385,2012-03-03,,39.48,Enterprise,Technology,Computer Components,microprocessor,Generic microprocessor,Unknown,external,20
+386,2010-05-10,,39.48,Enterprise,Technology,Computer Components,microprocessor,Generic microprocessor,Unknown,external,20
+387,2011-09-15,,39.48,Enterprise,Technology,Computer Components,microprocessor,Generic microprocessor,Unknown,external,20
+388,2011-02-03,,39.48,Enterprise,Technology,Computer Components,microprocessor,Generic microprocessor,Unknown,external,20
+389,2009-09-19,,39.48,Enterprise,Technology,Computer Components,microprocessor,Generic microprocessor,Unknown,external,20
+390,2012-04-04,,39.48,Enterprise,Technology,Computer Components,microprocessor,Generic microprocessor,Unknown,external,20
+391,2012-10-27,,39.48,Enterprise,Technology,Computer Components,microprocessor,Generic microprocessor,Unknown,external,20
+392,2009-12-01,,39.48,Enterprise,Technology,Computer Components,microprocessor,Generic microprocessor,Unknown,external,20
+393,2010-09-19,,39.48,Enterprise,Technology,Computer Components,microprocessor,Generic microprocessor,Unknown,external,20
+394,2010-06-14,,26.31,Enterprise,Technology,Computer Components,harddrive,"Micro Innovations Micro harddrive, Black",Micro Innovations,external,21
+395,2011-06-25,,26.31,Enterprise,Technology,Computer Components,harddrive,"Micro Innovations Micro harddrive, Black",Micro Innovations,external,21
+396,2010-12-05,,26.31,Enterprise,Technology,Computer Components,harddrive,"Micro Innovations Micro harddrive, Black",Micro Innovations,external,21
+397,2010-02-22,,30.97,Enterprise,Technology,Computer Components,harddrive,Microsoft harddrive,Microsoft,external,21
+398,2011-08-16,,50.98,Enterprise,Technology,Computer Components,harddrive,Microsoft Natural harddrive,Microsoft,external,21
+399,2010-11-01,,50.98,Enterprise,Technology,Computer Components,harddrive,Microsoft Natural harddrive,Microsoft,external,21
+400,2010-06-14,,32.98,Enterprise,Technology,Computer Components,harddrive,PC Concepts 116 Key Quantum harddrive,PC Concepts,external,21
+401,2012-02-10,,32.98,Enterprise,Technology,Computer Components,harddrive,PC Concepts 116 Key Quantum harddrive,PC Concepts,external,21
+402,2010-04-19,,32.98,Enterprise,Technology,Computer Components,harddrive,PC Concepts 116 Key Quantum harddrive,PC Concepts,external,21
+403,2009-03-22,50.0,200.0,Enterprise,Technology,Computer Components, CPU, CPU,Adesso,internal,1
+404,2010-12-22,50.0,200.0,Enterprise,Technology,Computer Components, CPU, CPU,Adesso,internal,1
+405,2012-10-28,50.0,200.0,Enterprise,Technology,Computer Components, CPU, CPU,Adesso,internal,1
+406,2012-09-24,50.0,200.0,Enterprise,Technology,Computer Components, CPU, CPU,Adesso,internal,1
+407,2010-04-20,50.0,200.0,Enterprise,Technology,Computer Components, CPU, CPU,Adesso,internal,1
+408,2011-12-24,35.0,75.0,Enterprise,Technology,Computer Components, Graphics/video card, Graphics/video card,Canon,internal,2
+409,2009-09-17,35.0,75.0,Enterprise,Technology,Computer Components, Graphics/video card, Graphics/video card,Canon,internal,2
+410,2012-05-21,35.0,75.0,Enterprise,Technology,Computer Components, Graphics/video card, Graphics/video card,Canon,internal,2
+411,2010-06-07,35.0,75.0,Enterprise,Technology,Computer Components, Graphics/video card, Graphics/video card,Canon,internal,2
+412,2012-03-02,35.0,75.0,Enterprise,Technology,Computer Components, Graphics/video card, Graphics/video card,Canon,internal,2
+413,2010-08-30,35.0,75.0,Enterprise,Technology,Computer Components, Graphics/video card, Graphics/video card,Canon,internal,2
+414,2012-04-11,35.0,75.0,Enterprise,Technology,Computer Components, Graphics/video card, Graphics/video card,Canon,internal,2
+415,2010-03-08,35.0,75.0,Enterprise,Technology,Computer Components, Graphics/video card, Graphics/video card,Canon,internal,2
+416,2009-01-26,35.0,75.0,Enterprise,Technology,Computer Components, Graphics/video card, Graphics/video card,Canon,internal,2
+417,2009-03-25,35.0,75.0,Enterprise,Technology,Computer Components, Graphics/video card, Graphics/video card,Canon,internal,2
+418,2012-05-07,35.0,75.0,Enterprise,Technology,Computer Components, Graphics/video card, Graphics/video card,Canon,internal,2
+419,2010-08-15,35.0,75.0,Enterprise,Technology,Computer Components, Graphics/video card, Graphics/video card,Canon,internal,2
+420,2012-05-28,35.0,75.0,Enterprise,Technology,Computer Components, Graphics/video card, Graphics/video card,Canon,internal,2
+421,2011-12-07,35.0,75.0,Enterprise,Technology,Computer Components, Graphics/video card, Graphics/video card,Canon,internal,2
+422,2011-12-02,35.0,75.0,Enterprise,Technology,Computer Components, Graphics/video card, Graphics/video card,Canon,internal,2
+423,2010-07-03,35.0,75.0,Enterprise,Technology,Computer Components, Graphics/video card, Graphics/video card,Canon,internal,2
+424,2009-04-07,35.0,75.0,Enterprise,Technology,Computer Components, Graphics/video card, Graphics/video card,Keytronic,internal,2
+425,2011-04-17,35.0,75.0,Enterprise,Technology,Computer Components, Graphics/video card, Graphics/video card,Keytronic,internal,2
+426,2012-12-21,20.0,50.0,Enterprise,Technology,Computer Components, Wi-Fi, Wi-Fi,Microsoft,internal,6
+427,2011-03-12,20.0,50.0,Enterprise,Technology,Computer Components, Wi-Fi, Wi-Fi,Microsoft,internal,6
+428,2011-04-20,20.0,50.0,Enterprise,Technology,Computer Components, Wi-Fi, Wi-Fi,Microsoft,internal,6
+429,2012-05-07,20.0,50.0,Enterprise,Technology,Computer Components, Wi-Fi, Wi-Fi,Microsoft,internal,6
+430,2011-07-22,20.0,50.0,Enterprise,Technology,Computer Components, Wi-Fi, Wi-Fi,Microsoft,internal,6
+431,2010-01-10,20.0,50.0,Enterprise,Technology,Computer Components, Wi-Fi, Wi-Fi,Microsoft,internal,6
+432,2009-05-13,20.0,50.0,Enterprise,Technology,Computer Components, Wi-Fi, Wi-Fi,Microsoft,internal,6
+433,2012-09-09,20.0,50.0,Enterprise,Technology,Computer Components, Wi-Fi, Wi-Fi,Microsoft,internal,6
+434,2011-07-23,20.0,50.0,Enterprise,Technology,Computer Components, Wi-Fi, Wi-Fi,Microsoft,internal,6
+435,2012-05-21,20.0,50.0,Enterprise,Technology,Computer Components, Wi-Fi, Wi-Fi,Microsoft,internal,6
+436,2012-05-13,20.0,50.0,Enterprise,Technology,Computer Components, Wi-Fi, Wi-Fi,U.S. Robotics,internal,6
+437,2011-08-07,20.0,50.0,Enterprise,Technology,Computer Components, Wi-Fi, Wi-Fi,U.S. Robotics,internal,6
+438,2010-10-09,20.0,50.0,Enterprise,Technology,Computer Components, Wi-Fi, Wi-Fi,U.S. Robotics,internal,6
+439,2011-04-10,20.0,50.0,Enterprise,Technology,Computer Components, Wi-Fi, Wi-Fi,U.S. Robotics,internal,6
+440,2010-11-17,20.0,50.0,Enterprise,Technology,Computer Components, Wi-Fi, Wi-Fi,U.S. Robotics,internal,6
+441,2012-04-08,20.0,50.0,Enterprise,Technology,Computer Components, Wi-Fi, Wi-Fi,U.S. Robotics,internal,6
+442,2012-06-29,20.0,50.0,Enterprise,Technology,Computer Components, Wi-Fi, Wi-Fi,U.S. Robotics,internal,6
+443,2010-09-23,20.0,50.0,Enterprise,Technology,Computer Components, Wi-Fi, Wi-Fi,U.S. Robotics,internal,6
+444,2012-08-10,20.0,50.0,Enterprise,Technology,Computer Components, Wi-Fi, Wi-Fi,U.S. Robotics,internal,6
+445,2011-02-07,20.0,50.0,Enterprise,Technology,Computer Components, Wi-Fi, Wi-Fi,U.S. Robotics,internal,6
+446,2010-09-06,20.0,50.0,Enterprise,Technology,Computer Components, Wi-Fi, Wi-Fi,U.S. Robotics,internal,6
+447,2010-09-03,20.0,50.0,Enterprise,Technology,Computer Components, Wi-Fi, Wi-Fi,U.S. Robotics,internal,6
+448,2009-10-28,20.0,50.0,Enterprise,Technology,Computer Components, Wi-Fi, Wi-Fi,U.S. Robotics,internal,6
+449,2011-11-19,20.0,50.0,Enterprise,Technology,Computer Components, Wi-Fi, Wi-Fi,U.S. Robotics,internal,6
+450,2009-01-31,20.0,50.0,Enterprise,Technology,Computer Components, Wi-Fi, Wi-Fi,U.S. Robotics,internal,6
+451,2011-06-27,20.0,50.0,Enterprise,Technology,Computer Components, Wi-Fi, Wi-Fi,U.S. Robotics,internal,6
+452,2012-03-06,20.0,50.0,Enterprise,Technology,Computer Components, Wi-Fi, Wi-Fi,Zoom,internal,6
+453,2011-09-15,20.0,50.0,Enterprise,Technology,Computer Components, Wi-Fi, Wi-Fi,Zoom,internal,6
+454,2012-01-01,20.0,50.0,Enterprise,Technology,Computer Components, Wi-Fi, Wi-Fi,Zoom,internal,6
+455,2009-12-06,20.0,50.0,Enterprise,Technology,Computer Components, Wi-Fi, Wi-Fi,Zoom,internal,6
+456,2009-07-06,15.0,40.0,Enterprise,Technology,Computer Components, Sound card, Sound card,Fellowes,internal,7
+457,2009-08-15,15.0,40.0,Enterprise,Technology,Computer Components, Sound card, Sound card,Fellowes,internal,7
+458,2009-06-17,15.0,40.0,Enterprise,Technology,Computer Components, Sound card, Sound card,Fellowes,internal,7
+459,2010-03-01,15.0,40.0,Enterprise,Technology,Computer Components, Sound card, Sound card,Fellowes,internal,7
+460,2010-10-12,15.0,40.0,Enterprise,Technology,Computer Components, Sound card, Sound card,Fellowes,internal,7
+461,2012-11-08,15.0,40.0,Enterprise,Technology,Computer Components, Sound card, Sound card,Fellowes,internal,7
+462,2011-09-19,15.0,40.0,Enterprise,Technology,Computer Components, Sound card, Sound card,Hewlett Packard,internal,7
+463,2012-11-29,15.0,40.0,Enterprise,Technology,Computer Components, Sound card, Sound card,Sharp,internal,7
+464,2009-03-23,15.0,40.0,Enterprise,Technology,Computer Components, Sound card, Sound card,Sharp,internal,7
+465,2011-09-16,15.0,40.0,Enterprise,Technology,Computer Components, Sound card, Sound card,Sharp,internal,7
+466,2009-02-10,15.0,40.0,Enterprise,Technology,Computer Components, Sound card, Sound card,Sharp,internal,7
+467,2010-01-08,15.0,40.0,Enterprise,Technology,Computer Components, Sound card, Sound card,Sharp,internal,7
+468,2011-05-22,15.0,40.0,Enterprise,Technology,Computer Components, Sound card, Sound card,Sharp,internal,7
+469,2011-01-24,15.0,40.0,Enterprise,Technology,Computer Components, Sound card, Sound card,Texas Instruments,internal,7
+470,2012-01-20,15.0,40.0,Enterprise,Technology,Computer Components, Sound card, Sound card,Texas Instruments,internal,7
+471,2010-06-06,15.0,40.0,Enterprise,Technology,Computer Components, Sound card, Sound card,Texas Instruments,internal,7
+472,2012-04-06,15.0,40.0,Enterprise,Technology,Computer Components, Sound card, Sound card,Texas Instruments,internal,7
+473,2012-06-19,15.0,40.0,Enterprise,Technology,Computer Components, Sound card, Sound card,Texas Instruments,internal,7
+474,2009-05-29,15.0,40.0,Enterprise,Technology,Computer Components, Sound card, Sound card,Texas Instruments,internal,7
+475,2010-06-14,3.0,7.0,Enterprise,Technology,Computer Components,drive controller,drive controller,Imation,internal,8
+476,2009-02-27,3.0,7.0,Enterprise,Technology,Computer Components,drive controller,drive controller,Imation,internal,8
+477,2011-07-28,3.0,7.0,Enterprise,Technology,Computer Components,drive controller,drive controller,Imation,internal,8
+478,2009-12-28,3.0,7.0,Enterprise,Technology,Computer Components,drive controller,drive controller,Imation,internal,8
+479,2010-12-07,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,IBM,internal,9
+480,2010-09-14,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,IBM,internal,9
+481,2010-12-13,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Unknown,internal,9
+482,2009-08-14,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Unknown,internal,9
+483,2011-12-30,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Unknown,internal,9
+484,2010-06-17,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Unknown,internal,9
+485,2009-02-25,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Unknown,internal,9
+486,2010-10-12,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Staples,internal,9
+487,2010-03-25,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Staples,internal,9
+488,2011-11-12,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Staples,internal,9
+489,2012-08-28,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Staples,internal,9
+490,2009-12-20,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Staples,internal,9
+491,2010-09-23,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Fuji,internal,9
+492,2010-10-18,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Fuji,internal,9
+493,2010-06-26,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Fuji,internal,9
+494,2010-01-15,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Fuji,internal,9
+495,2010-05-28,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Hewlett Packard,internal,9
+496,2009-08-31,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Hewlett Packard,internal,9
+497,2011-02-26,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Imation,internal,9
+498,2010-05-21,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Imation,internal,9
+499,2012-03-23,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Imation,internal,9
+500,2012-10-17,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Imation,internal,9
+501,2009-05-12,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Imation,internal,9
+502,2009-01-30,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Imation,internal,9
+503,2009-02-08,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Imation,internal,9
+504,2010-06-30,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Imation,internal,9
+505,2011-11-18,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Imation,internal,9
+506,2011-11-19,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Imation,internal,9
+507,2010-12-29,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Imation,internal,9
+508,2009-02-28,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Imation,internal,9
+509,2012-03-30,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Imation,internal,9
+510,2011-04-18,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Imation,internal,9
+511,2010-02-06,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Imation,internal,9
+512,2009-08-01,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Imation,internal,9
+513,2010-12-03,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Imation,internal,9
+514,2009-08-23,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Imation,internal,9
+515,2011-04-09,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Imation,internal,9
+516,2012-09-02,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Imation,internal,9
+517,2009-05-25,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Imation,internal,9
+518,2011-05-07,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Imation,internal,9
+519,2009-04-20,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Imation,internal,9
+520,2012-08-12,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Imation,internal,9
+521,2011-03-09,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Maxel,internal,9
+522,2009-08-06,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Maxel,internal,9
+523,2011-03-04,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Maxel,internal,9
+524,2009-01-17,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Maxel,internal,9
+525,2009-08-02,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Maxel,internal,9
+526,2011-01-22,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Memorex,internal,9
+527,2009-12-21,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Memorex,internal,9
+528,2009-07-15,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Memorex,internal,9
+529,2011-01-28,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Memorex,internal,9
+530,2011-12-04,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Memorex,internal,9
+531,2010-06-26,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Memorex,internal,9
+532,2012-03-29,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Memorex,internal,9
+533,2010-03-21,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Memorex,internal,9
+534,2012-04-25,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Memorex,internal,9
+535,2009-07-17,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Memorex,internal,9
+536,2011-06-08,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Memorex,internal,9
+537,2009-01-30,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Memorex,internal,9
+538,2012-09-01,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Memorex,internal,9
+539,2010-03-27,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Memorex,internal,9
+540,2012-03-04,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Memorex,internal,9
+541,2010-11-18,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Memorex,internal,9
+542,2012-04-07,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Memorex,internal,9
+543,2010-08-09,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Sony,internal,9
+544,2009-05-09,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Sony,internal,9
+545,2012-03-06,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Sony,internal,9
+546,2012-12-21,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,TDK,internal,9
+547,2010-06-15,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,TDK,internal,9
+548,2012-07-17,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,TDK,internal,9
+549,2012-08-27,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,TDK,internal,9
+550,2010-02-11,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,TDK,internal,9
+551,2011-10-04,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,TDK,internal,9
+552,2010-05-24,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,TDK,internal,9
+553,2011-11-02,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,TDK,internal,9
+554,2011-10-28,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,TDK,internal,9
+555,2010-09-10,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,TDK,internal,9
+556,2009-01-11,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Verbatim,internal,9
+557,2012-11-11,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Verbatim,internal,9
+558,2011-05-10,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Verbatim,internal,9
+559,2011-11-18,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Verbatim,internal,9
+560,2012-05-08,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Verbatim,internal,9
+561,2012-09-22,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Verbatim,internal,9
+562,2011-09-08,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Verbatim,internal,9
+563,2011-03-17,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Verbatim,internal,9
+564,2012-04-27,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Verbatim,internal,9
+565,2009-02-04,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Verbatim,internal,9
+566,2009-07-12,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Verbatim,internal,9
+567,2012-11-11,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Verbatim,internal,9
+568,2011-10-18,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Verbatim,internal,9
+569,2009-02-01,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Verbatim,internal,9
+570,2012-09-14,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Verbatim,internal,9
+571,2012-01-27,8.0,20.0,Enterprise,Technology,Computer Components,DVR drive,DVR drive,Verbatim,internal,9
+572,2010-12-14,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Belkin,internal,11
+573,2012-01-30,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Belkin,internal,11
+574,2009-03-20,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Belkin,internal,11
+575,2011-03-02,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Belkin,internal,11
+576,2011-03-11,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Belkin,internal,11
+577,2011-09-15,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Belkin,internal,11
+578,2012-03-23,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Belkin,internal,11
+579,2009-05-15,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Belkin,internal,11
+580,2010-12-22,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Belkin,internal,11
+581,2010-02-01,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Belkin,internal,11
+582,2010-08-26,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Belkin,internal,11
+583,2010-07-29,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Fellowes,internal,11
+584,2012-05-09,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Fellowes,internal,11
+585,2009-03-05,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Fellowes,internal,11
+586,2011-01-27,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Fellowes,internal,11
+587,2012-01-28,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Fellowes,internal,11
+588,2012-11-23,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Fellowes,internal,11
+589,2009-01-03,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Fellowes,internal,11
+590,2011-05-10,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Fellowes,internal,11
+591,2011-04-11,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Gyration,internal,11
+592,2012-03-20,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,IBM,internal,11
+593,2009-01-26,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,IBM,internal,11
+594,2010-04-15,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,IBM,internal,11
+595,2012-05-09,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,IBM,internal,11
+596,2009-05-15,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Keytronic,internal,11
+597,2009-05-18,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Keytronic,internal,11
+598,2011-06-23,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Keytronic,internal,11
+599,2010-11-25,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Keytronic,internal,11
+600,2012-11-09,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Keytronic,internal,11
+601,2010-04-15,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Keytronic,internal,11
+602,2010-12-09,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Keytronic,internal,11
+603,2009-03-12,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Keytronic,internal,11
+604,2010-09-25,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Keytronic,internal,11
+605,2012-02-08,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Keytronic,internal,11
+606,2009-06-17,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Logitech,internal,11
+607,2009-06-13,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Logitech,internal,11
+608,2011-05-20,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Logitech,internal,11
+609,2010-03-07,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Logitech,internal,11
+610,2011-07-04,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Logitech,internal,11
+611,2012-10-01,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Micro Innovations,internal,11
+612,2012-10-05,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Micro Innovations,internal,11
+613,2011-11-18,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Micro Innovations,internal,11
+614,2012-04-04,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Micro Innovations,internal,11
+615,2012-10-26,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Micro Innovations,internal,11
+616,2012-04-26,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Micro Innovations,internal,11
+617,2010-03-30,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Micro Innovations,internal,11
+618,2011-05-07,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Micro Innovations,internal,11
+619,2009-02-02,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Micro Innovations,internal,11
+620,2011-08-19,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Micro Innovations,internal,11
+621,2012-04-15,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Micro Innovations,internal,11
+622,2009-11-08,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Micro Innovations,internal,11
+623,2010-02-26,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Micro Innovations,internal,11
+624,2011-02-17,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Microsoft,internal,11
+625,2009-06-11,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Microsoft,internal,11
+626,2010-09-14,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Microsoft,internal,11
+627,2011-06-28,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Microsoft,internal,11
+628,2011-11-10,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Microsoft,internal,11
+629,2010-07-28,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Nu-Form,internal,11
+630,2009-08-27,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Nu-Form,internal,11
+631,2011-08-21,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Nu-Form,internal,11
+632,2012-06-26,30.0,65.0,Enterprise,Technology,Computer Components,keyboard or keypad,keyboard or keypad,Targus,internal,11
+633,2010-07-18,18.0,24.0,Enterprise,Technology,Computer Components,webcam,webcam,Logitech,internal,12
+634,2010-10-18,18.0,24.0,Enterprise,Technology,Computer Components,webcam,webcam,Logitech,internal,12
+635,2011-03-25,18.0,24.0,Enterprise,Technology,Computer Components,webcam,webcam,Logitech,internal,12
+636,2009-12-18,18.0,24.0,Enterprise,Technology,Computer Components,webcam,webcam,Logitech,internal,12
+637,2009-03-27,18.0,24.0,Enterprise,Technology,Computer Components,webcam,webcam,Logitech,internal,12
+638,2011-11-24,18.0,24.0,Enterprise,Technology,Computer Components,webcam,webcam,Logitech,internal,12
+639,2011-09-28,18.0,24.0,Enterprise,Technology,Computer Components,webcam,webcam,Logitech,internal,12
+640,2010-05-21,18.0,24.0,Enterprise,Technology,Computer Components,webcam,webcam,Logitech,internal,12
+641,2012-01-12,18.0,24.0,Enterprise,Technology,Computer Components,webcam,webcam,Logitech,internal,12
+642,2012-11-19,18.0,24.0,Enterprise,Technology,Computer Components,webcam,webcam,Logitech,internal,12
+643,2012-04-22,18.0,24.0,Enterprise,Technology,Computer Components,webcam,webcam,Logitech,internal,12
+644,2010-09-11,18.0,24.0,Enterprise,Technology,Computer Components,webcam,webcam,Logitech,internal,12
+645,2012-07-26,18.0,24.0,Enterprise,Technology,Computer Components,webcam,webcam,Logitech,internal,12
+646,2009-05-08,150.0,349.0,Enterprise,Technology,Computer Components,monitor,monitor,Gyration,internal,13
+647,2011-07-25,150.0,349.0,Enterprise,Technology,Computer Components,monitor,monitor,Gyration,internal,13
+648,2011-09-22,150.0,349.0,Enterprise,Technology,Computer Components,monitor,monitor,Gyration,internal,13
+649,2011-11-01,150.0,349.0,Enterprise,Technology,Computer Components,monitor,monitor,Gyration,internal,13
+650,2011-12-11,150.0,349.0,Enterprise,Technology,Computer Components,monitor,monitor,Gyration,internal,13
+651,2009-04-27,150.0,349.0,Enterprise,Technology,Computer Components,monitor,monitor,Gyration,internal,13
+652,2009-06-23,150.0,349.0,Enterprise,Technology,Computer Components,monitor,monitor,Hayes,internal,13
+653,2010-04-30,150.0,349.0,Enterprise,Technology,Computer Components,monitor,monitor,Hayes,internal,13
+654,2010-07-03,100.0,199.0,Enterprise,Technology,Computer Components,motherboard,motherboard,Hewlett Packard,internal,14
+655,2010-11-03,100.0,199.0,Enterprise,Technology,Computer Components,motherboard,motherboard,Hewlett Packard,internal,14
+656,2009-02-05,100.0,199.0,Enterprise,Technology,Computer Components,motherboard,motherboard,Hewlett Packard,internal,14
+657,2010-06-19,100.0,199.0,Enterprise,Technology,Computer Components,motherboard,motherboard,Hewlett Packard,internal,14
+658,2012-10-28,100.0,199.0,Enterprise,Technology,Computer Components,motherboard,motherboard,Hewlett Packard,internal,14
+659,2012-08-05,100.0,199.0,Enterprise,Technology,Computer Components,motherboard,motherboard,Hewlett Packard,internal,14
+660,2010-03-31,100.0,199.0,Enterprise,Technology,Computer Components,motherboard,motherboard,Hewlett Packard,internal,14
+661,2010-01-31,100.0,199.0,Enterprise,Technology,Computer Components,motherboard,motherboard,Hewlett Packard,internal,14
+662,2009-03-30,100.0,199.0,Enterprise,Technology,Computer Components,motherboard,motherboard,Hewlett Packard,internal,14
+663,2012-12-09,100.0,199.0,Enterprise,Technology,Computer Components,motherboard,motherboard,Hewlett Packard,internal,14
+664,2012-01-11,100.0,199.0,Enterprise,Technology,Computer Components,motherboard,motherboard,Hewlett Packard,internal,14
+665,2011-04-08,100.0,199.0,Enterprise,Technology,Computer Components,motherboard,motherboard,Hewlett Packard,internal,14
+666,2009-09-25,100.0,199.0,Enterprise,Technology,Computer Components,motherboard,motherboard,Hewlett Packard,internal,14
+667,2009-09-04,100.0,199.0,Enterprise,Technology,Computer Components,motherboard,motherboard,Imation,internal,14
+668,2010-07-14,100.0,199.0,Enterprise,Technology,Computer Components,motherboard,motherboard,Imation,internal,14
+669,2011-07-15,100.0,199.0,Enterprise,Technology,Computer Components,motherboard,motherboard,Imation,internal,14
+670,2011-08-07,100.0,199.0,Enterprise,Technology,Computer Components,motherboard,motherboard,Imation,internal,14
+671,2011-02-16,100.0,199.0,Enterprise,Technology,Computer Components,motherboard,motherboard,Imation,internal,14
+672,2009-07-16,100.0,199.0,Enterprise,Technology,Computer Components,motherboard,motherboard,Imation,internal,14
+673,2011-08-25,100.0,199.0,Enterprise,Technology,Computer Components,motherboard,motherboard,Imation,internal,14
+674,2009-03-27,100.0,199.0,Enterprise,Technology,Computer Components,motherboard,motherboard,Imation,internal,14
+675,2010-06-06,100.0,199.0,Enterprise,Technology,Computer Components,motherboard,motherboard,Imation,internal,14
+676,2010-11-01,100.0,199.0,Enterprise,Technology,Computer Components,motherboard,motherboard,Imation,internal,14
+677,2009-09-19,100.0,199.0,Enterprise,Technology,Computer Components,motherboard,motherboard,Imation,internal,14
+678,2010-12-05,100.0,199.0,Enterprise,Technology,Computer Components,motherboard,motherboard,Imation,internal,14
+679,2010-07-03,100.0,199.0,Enterprise,Technology,Computer Components,motherboard,motherboard,Lexmark,internal,14
+680,2010-03-28,100.0,199.0,Enterprise,Technology,Computer Components,motherboard,motherboard,Lexmark,internal,14
+681,2012-01-22,100.0,199.0,Enterprise,Technology,Computer Components,motherboard,motherboard,Lexmark,internal,14
+682,2012-02-27,100.0,199.0,Enterprise,Technology,Computer Components,motherboard,motherboard,Lexmark,internal,14
+683,2009-07-12,100.0,199.0,Enterprise,Technology,Computer Components,motherboard,motherboard,Lexmark,internal,14
+684,2012-12-09,45.0,65.0,Enterprise,Technology,Computer Components,power supply,power supply,IBM,internal,16
+685,2011-07-10,45.0,65.0,Enterprise,Technology,Computer Components,power supply,power supply,IBM,internal,16
+686,2011-11-07,45.0,65.0,Enterprise,Technology,Computer Components,power supply,power supply,IBM,internal,16
+687,2009-01-10,45.0,65.0,Enterprise,Technology,Computer Components,power supply,power supply,Imation,internal,16
+688,2010-08-28,45.0,65.0,Enterprise,Technology,Computer Components,power supply,power supply,Imation,internal,16
+689,2012-01-27,45.0,65.0,Enterprise,Technology,Computer Components,power supply,power supply,Imation,internal,16
+690,2011-05-21,45.0,65.0,Enterprise,Technology,Computer Components,power supply,power supply,Imation,internal,16
+691,2012-07-17,45.0,65.0,Enterprise,Technology,Computer Components,power supply,power supply,Imation,internal,16
+692,2012-08-02,45.0,65.0,Enterprise,Technology,Computer Components,power supply,power supply,Imation,internal,16
+693,2012-11-10,45.0,65.0,Enterprise,Technology,Computer Components,power supply,power supply,Imation,internal,16
+694,2012-05-23,45.0,65.0,Enterprise,Technology,Computer Components,power supply,power supply,Imation,internal,16
+695,2012-10-10,20.0,35.0,Enterprise,Technology,Computer Components,USB drive,USB drive,Fellowes,internal,17
+696,2011-07-26,20.0,35.0,Enterprise,Technology,Computer Components,USB drive,USB drive,Fellowes,internal,17
+697,2009-10-09,20.0,35.0,Enterprise,Technology,Computer Components,USB drive,USB drive,Fellowes,internal,17
+698,2009-03-02,20.0,35.0,Enterprise,Technology,Computer Components,USB drive,USB drive,Fellowes,internal,17
+699,2010-12-13,20.0,35.0,Enterprise,Technology,Computer Components,USB drive,USB drive,Fellowes,internal,17
+700,2011-05-08,20.0,35.0,Enterprise,Technology,Computer Components,USB drive,USB drive,Fellowes,internal,17
+701,2010-04-27,20.0,35.0,Enterprise,Technology,Computer Components,USB drive,USB drive,Fellowes,internal,17
+702,2010-02-12,20.0,35.0,Enterprise,Technology,Computer Components,USB drive,USB drive,Fellowes,internal,17
+703,2010-10-09,20.0,35.0,Enterprise,Technology,Computer Components,USB drive,USB drive,Maxel,internal,17
+704,2009-11-25,20.0,35.0,Enterprise,Technology,Computer Components,USB drive,USB drive,Maxel,internal,17
+705,2010-10-15,20.0,35.0,Enterprise,Technology,Computer Components,USB drive,USB drive,Maxel,internal,17
+706,2010-07-16,20.0,35.0,Enterprise,Technology,Computer Components,USB drive,USB drive,Maxel,internal,17
+707,2009-11-10,20.0,35.0,Enterprise,Technology,Computer Components,USB drive,USB drive,Maxel,internal,17
+708,2012-11-05,20.0,35.0,Enterprise,Technology,Computer Components,USB drive,USB drive,Maxel,internal,17
+709,2012-11-06,20.0,35.0,Enterprise,Technology,Computer Components,USB drive,USB drive,Memorex,internal,17
+710,2011-12-04,20.0,35.0,Enterprise,Technology,Computer Components,USB drive,USB drive,Memorex,internal,17
+711,2009-12-16,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Epson,internal,18
+712,2009-06-21,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Epson,internal,18
+713,2009-10-21,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Epson,internal,18
+714,2012-04-11,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Epson,internal,18
+715,2012-03-11,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Epson,internal,18
+716,2009-04-16,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Epson,internal,18
+717,2009-10-02,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Epson,internal,18
+718,2012-11-26,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Epson,internal,18
+719,2012-12-16,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Epson,internal,18
+720,2012-12-02,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Epson,internal,18
+721,2011-02-05,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Epson,internal,18
+722,2012-06-12,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Epson,internal,18
+723,2010-12-08,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Epson,internal,18
+724,2011-03-20,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Epson,internal,18
+725,2012-01-05,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Hewlett Packard,internal,18
+726,2012-03-31,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Hewlett Packard,internal,18
+727,2009-08-23,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Hewlett Packard,internal,18
+728,2011-02-15,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Hewlett Packard,internal,18
+729,2011-07-06,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Hewlett Packard,internal,18
+730,2011-07-21,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Hewlett Packard,internal,18
+731,2012-01-11,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Hewlett Packard,internal,18
+732,2012-10-14,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Hewlett Packard,internal,18
+733,2011-12-17,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Hewlett Packard,internal,18
+734,2012-09-11,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Hewlett Packard,internal,18
+735,2010-10-12,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Hewlett Packard,internal,18
+736,2012-04-06,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Hewlett Packard,internal,18
+737,2009-03-09,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Hewlett Packard,internal,18
+738,2010-05-24,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Hewlett Packard,internal,18
+739,2011-08-25,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Hewlett Packard,internal,18
+740,2011-05-04,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Hewlett Packard,internal,18
+741,2012-03-12,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Hewlett Packard,internal,18
+742,2012-07-21,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Hewlett Packard,internal,18
+743,2011-05-01,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Hewlett Packard,internal,18
+744,2012-10-04,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Lexmark,internal,18
+745,2010-09-26,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Lexmark,internal,18
+746,2011-07-14,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Lexmark,internal,18
+747,2011-07-27,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Lexmark,internal,18
+748,2010-09-29,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Lexmark,internal,18
+749,2012-04-28,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Lexmark,internal,18
+750,2011-11-19,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Okidata,internal,18
+751,2010-05-03,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Okidata,internal,18
+752,2009-12-06,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Okidata,internal,18
+753,2012-09-06,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Okidata,internal,18
+754,2012-10-03,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Okidata,internal,18
+755,2010-05-19,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Okidata,internal,18
+756,2009-09-05,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Okidata,internal,18
+757,2011-02-18,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Okidata,internal,18
+758,2009-02-22,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Okidata,internal,18
+759,2012-09-23,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Okidata,internal,18
+760,2010-10-20,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Okidata,internal,18
+761,2012-08-07,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Okidata,internal,18
+762,2009-08-04,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Okidata,internal,18
+763,2012-03-23,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Okidata,internal,18
+764,2010-01-20,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Panasonic,internal,18
+765,2010-09-27,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Panasonic,internal,18
+766,2009-01-14,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Panasonic,internal,18
+767,2009-03-22,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Panasonic,internal,18
+768,2011-07-15,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Panasonic,internal,18
+769,2010-01-01,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Panasonic,internal,18
+770,2009-01-13,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Panasonic,internal,18
+771,2009-10-05,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Panasonic,internal,18
+772,2009-01-10,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Panasonic,internal,18
+773,2011-12-07,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Panasonic,internal,18
+774,2012-09-17,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Panasonic,internal,18
+775,2012-01-13,275.0,500.0,Enterprise,Technology,Computer Components,printer,printer,Panasonic,internal,18
+776,2012-05-06,345.0,500.0,Enterprise,Technology,Computer Components,RAM,RAM,Brother,internal,19
+777,2012-07-13,345.0,500.0,Enterprise,Technology,Computer Components,RAM,RAM,Brother,internal,19
+778,2012-05-11,345.0,500.0,Enterprise,Technology,Computer Components,RAM,RAM,Canon,internal,19
+779,2010-01-09,345.0,500.0,Enterprise,Technology,Computer Components,RAM,RAM,Canon,internal,19
+780,2011-02-06,345.0,500.0,Enterprise,Technology,Computer Components,RAM,RAM,Canon,internal,19
+781,2012-03-30,345.0,500.0,Enterprise,Technology,Computer Components,RAM,RAM,Canon,internal,19
+782,2011-09-02,345.0,500.0,Enterprise,Technology,Computer Components,RAM,RAM,Canon,internal,19
+783,2009-03-23,345.0,500.0,Enterprise,Technology,Computer Components,RAM,RAM,Canon,internal,19
+784,2012-03-05,345.0,500.0,Enterprise,Technology,Computer Components,RAM,RAM,Canon,internal,19
+785,2011-11-16,345.0,500.0,Enterprise,Technology,Computer Components,RAM,RAM,Hewlett Packard,internal,19
+786,2010-02-27,345.0,500.0,Enterprise,Technology,Computer Components,RAM,RAM,Hewlett Packard,internal,19
+787,2011-11-16,10.0,50.0,Enterprise,Technology,Computer Components,microprocessor,microprocessor,Unknown,internal,20
+788,2012-03-03,10.0,50.0,Enterprise,Technology,Computer Components,microprocessor,microprocessor,Unknown,internal,20
+789,2010-05-10,10.0,50.0,Enterprise,Technology,Computer Components,microprocessor,microprocessor,Unknown,internal,20
+790,2011-09-15,10.0,50.0,Enterprise,Technology,Computer Components,microprocessor,microprocessor,Unknown,internal,20
+791,2011-02-03,10.0,50.0,Enterprise,Technology,Computer Components,microprocessor,microprocessor,Unknown,internal,20
+792,2009-09-19,10.0,50.0,Enterprise,Technology,Computer Components,microprocessor,microprocessor,Unknown,internal,20
+793,2012-04-04,10.0,50.0,Enterprise,Technology,Computer Components,microprocessor,microprocessor,Unknown,internal,20
+794,2012-10-27,10.0,50.0,Enterprise,Technology,Computer Components,microprocessor,microprocessor,Unknown,internal,20
+795,2009-12-01,10.0,50.0,Enterprise,Technology,Computer Components,microprocessor,microprocessor,Unknown,internal,20
+796,2010-09-19,10.0,50.0,Enterprise,Technology,Computer Components,microprocessor,microprocessor,Unknown,internal,20
+797,2010-06-14,35.0,45.0,Enterprise,Technology,Computer Components,harddrive,harddrive,Micro Innovations,internal,21
+798,2011-06-25,35.0,45.0,Enterprise,Technology,Computer Components,harddrive,harddrive,Micro Innovations,internal,21
+799,2010-12-05,35.0,45.0,Enterprise,Technology,Computer Components,harddrive,harddrive,Micro Innovations,internal,21
+800,2010-02-22,35.0,45.0,Enterprise,Technology,Computer Components,harddrive,harddrive,Microsoft,internal,21
+801,2011-08-16,35.0,45.0,Enterprise,Technology,Computer Components,harddrive,harddrive,Microsoft,internal,21
+802,2010-11-01,35.0,45.0,Enterprise,Technology,Computer Components,harddrive,harddrive,Microsoft,internal,21
+803,2010-06-14,35.0,45.0,Enterprise,Technology,Computer Components,harddrive,harddrive,PC Concepts,internal,21
+804,2012-02-10,35.0,45.0,Enterprise,Technology,Computer Components,harddrive,harddrive,PC Concepts,internal,21
+805,2010-04-19,35.0,45.0,Enterprise,Technology,Computer Components,harddrive,harddrive,PC Concepts,internal,21
